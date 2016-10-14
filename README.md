@@ -1,3 +1,2 @@
 # hello-world
-My first repository. Nothing special here, just practicing using GitHub.
-Just edited this doc as per GitHub's instructions. Ho hum... how are you doing?
+Hello, world! I'm Sam, and I'm just now finishing up the "Hello World" tutorial for GitHub. How are you today?
